@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting;
+﻿using System.Windows.Forms.DataVisualization.Charting;
 ...
  
 // Find all point with specified value and change their color

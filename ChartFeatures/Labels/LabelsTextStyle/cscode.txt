@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting;
+﻿using System.Windows.Forms.DataVisualization.Charting;
 ...
 
 // Disable axis labels auto fitting of text

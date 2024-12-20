@@ -1,4 +1,4 @@
-Imports System.Windows.Forms.DataVisualization.Charting
+﻿Imports System.Windows.Forms.DataVisualization.Charting
 ...
 
 ' Set series points width to 20 pixels

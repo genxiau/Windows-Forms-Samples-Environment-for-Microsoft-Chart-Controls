@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting;
+﻿using System.Windows.Forms.DataVisualization.Charting;
 ...
 
 private void AddButton_Click(object sender, System.EventArgs e)

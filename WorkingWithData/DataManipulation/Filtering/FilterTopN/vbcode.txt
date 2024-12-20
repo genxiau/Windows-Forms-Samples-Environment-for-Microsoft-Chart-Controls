@@ -1,4 +1,4 @@
-Imports System.Windows.Forms.DataVisualization.Charting
+﻿Imports System.Windows.Forms.DataVisualization.Charting
 ...
  
 Dim yValues As Double() =  {945.62, 545.54, 760.45, 834.73, 1385.42, 932.12, 855.18, 1207.15, 1299.24, 1023.65, 956.56, 1455.85}

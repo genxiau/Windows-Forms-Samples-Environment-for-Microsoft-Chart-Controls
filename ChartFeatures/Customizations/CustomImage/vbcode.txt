@@ -1,4 +1,4 @@
-Imports System.Drawing.Text
+﻿Imports System.Drawing.Text
 Imports System.Drawing.Imaging
 Imports System.Windows.Forms.DataVisualization.Charting
 ...

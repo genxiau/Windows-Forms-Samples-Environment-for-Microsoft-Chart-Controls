@@ -1,4 +1,4 @@
-Imports System.Windows.Forms.DataVisualization.Charting
+﻿Imports System.Windows.Forms.DataVisualization.Charting
 ...
 
 	Dim series1 As Series = chart1.Series(0)

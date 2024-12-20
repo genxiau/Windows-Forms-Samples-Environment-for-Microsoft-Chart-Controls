@@ -1,4 +1,4 @@
-Imports System.Windows.Forms.DataVisualization.Charting.Chart
+﻿Imports System.Windows.Forms.DataVisualization.Charting.Chart
 ...
 
 ' Equally sized auto-fit font for all axes

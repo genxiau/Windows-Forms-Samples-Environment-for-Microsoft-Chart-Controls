@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting;
+﻿using System.Windows.Forms.DataVisualization.Charting;
 ...
 
 this.chart1.CursorPositionChanging += new System.Windows.Forms.DataVisualization.Charting.Chart.CursorEventHandler(this.chart1_CursorPositionChanging);

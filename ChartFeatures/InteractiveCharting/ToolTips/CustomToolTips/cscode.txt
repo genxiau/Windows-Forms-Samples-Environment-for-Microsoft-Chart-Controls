@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting;
+﻿using System.Windows.Forms.DataVisualization.Charting;
 ...
 
 this.chart1.GetToolTipText += new System.Windows.Forms.DataVisualization.Charting.Chart.ToolTipEventHandler(this.chart1_GetToolTipText);

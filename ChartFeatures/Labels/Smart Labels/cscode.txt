@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting.Chart;
+﻿using System.Windows.Forms.DataVisualization.Charting.Chart;
 ...
 
 chart1.Series["Default"].SmartLabelStyle.Enabled = true;

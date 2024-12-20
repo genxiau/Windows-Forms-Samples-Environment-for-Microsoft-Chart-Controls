@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting.Chart;
+﻿using System.Windows.Forms.DataVisualization.Charting.Chart;
 ...
 
 // Disable end labels for the X axis

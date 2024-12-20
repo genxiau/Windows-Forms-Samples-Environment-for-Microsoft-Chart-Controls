@@ -1,4 +1,4 @@
-Imports System.Windows.Forms.DataVisualization.Charting
+﻿Imports System.Windows.Forms.DataVisualization.Charting
 ...
 
 Private firFilter As New System.Windows.Forms.DataVisualization.Charting.Utilities.FIRFilters()

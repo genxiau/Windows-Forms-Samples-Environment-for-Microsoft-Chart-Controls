@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting.Chart;
+﻿using System.Windows.Forms.DataVisualization.Charting.Chart;
 ...
   
 // Populate chart with random data

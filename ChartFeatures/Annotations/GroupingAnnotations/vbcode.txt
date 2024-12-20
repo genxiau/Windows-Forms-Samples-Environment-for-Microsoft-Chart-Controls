@@ -1,4 +1,4 @@
-Imports System.Windows.Forms.DataVisualization.Charting
+﻿Imports System.Windows.Forms.DataVisualization.Charting
 ...
 
 ' Create annotation group and add it to the chart annotations collection

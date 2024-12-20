@@ -1,4 +1,4 @@
-using System.Windows.Forms.DataVisualization.Charting;
+﻿using System.Windows.Forms.DataVisualization.Charting;
 ...
 
 chart1.AxisScrollBarClicked += new ScrollBarEventHandler(this.chart1_AxisScrollBarClicked);
